@@ -1,0 +1,13 @@
+# PlatformIO / Arduino 빌드 결과
+.pio/
+build/
+*.bin
+*.elf
+*.map
+# 편집기·OS
+.vscode/
+.DS_Store
+Thumbs.db
+# 개인 설정 (Wi-Fi 비밀번호, API 키를 커밋하지 않도록)
+config.local.h
+*.pdf
